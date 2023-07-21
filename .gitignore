@@ -1,0 +1,9 @@
+# GIT Ignore everything
+*
+
+# But not following files and folders
+!.gitignore
+!/vendor/*
+!/Vendor/*
+!README.md
+!LICENSE
