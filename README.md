@@ -4,7 +4,12 @@ This repository main branch contains the latest version of ARM CMSIS and STMicro
 
 # Content
 
-->Vendor
-		->CMSIS
-				->ARM		- ARM CMSIS header files
-				->Device	- Silicone manufacturer specific header files
+## CMSIS
+
+ARM CMSIS header files
+
+Vendor -> CMSIS -> ARM
+
+Silicone manufacturer specific header files
+
+Vendor -> CMSIS -> Deevice
