@@ -3,6 +3,6 @@
 
 # But not following files and folders
 !.gitignore
-!/Vendor/
+!/ChipHeaders/
 !README.md
 !LICENSE
