@@ -21,6 +21,11 @@
 * [STM32VLDISCOVERY](https://www.st.com/en/evaluation-tools/stm32vldiscovery.html)
 * [NUCLEO-F103RB](https://www.st.com/en/evaluation-tools/nucleo-f103rb.html)
 
+## STM32F2
+* [STM3220G-EVAL](https://www.st.com/en/evaluation-tools/stm3220g-eval.html)
+* [STM3221G-EVAL](https://www.st.com/en/evaluation-tools/stm3221g-eval.html)
+* [NUCLEO-F207ZG](https://www.st.com/en/evaluation-tools/nucleo-f207zg.html)
+
 ## STM32F4
 
 * [STM32F4-Discovery](https://www.st.com/content/st_com/en/products/evaluation-tools/product-evaluation-tools/mcu-eval-tools/stm32-mcu-eval-tools/stm32-mcu-discovery-kits/stm32f4discovery.html)
