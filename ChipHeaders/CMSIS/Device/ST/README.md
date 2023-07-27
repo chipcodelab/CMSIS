@@ -1,6 +1,6 @@
 # Development Boards
 
-# STM32F0
+## STM32F0
 
 * [32F0308DISCOVERY](https://www.st.com/en/evaluation-tools/32f0308discovery.html)
 * [32F072BDISCOVERY](https://www.st.com/en/evaluation-tools/32f072bdiscovery.html)
@@ -13,6 +13,13 @@
 * [STM32072B-EVAL](https://www.st.com/en/evaluation-tools/stm32072b-eval.html)
 * [STM32091C-EVAL](https://www.st.com/en/evaluation-tools/stm32091c-eval.html)
 * [STM32F0DISCOVERY](https://www.st.com/en/evaluation-tools/stm32f0discovery.html)
+
+## STM32F1
+
+* [STM3210C-EVAL](https://www.st.com/en/evaluation-tools/stm3210c-eval.html)
+* [STM3210E-EVAL](https://www.st.com/en/evaluation-tools/stm3210e-eval.html)
+* [STM32VLDISCOVERY](https://www.st.com/en/evaluation-tools/stm32vldiscovery.html)
+* [NUCLEO-F103RB](https://www.st.com/en/evaluation-tools/nucleo-f103rb.html)
 
 ## STM32F4
 
