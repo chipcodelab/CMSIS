@@ -24,11 +24,13 @@
 * [NUCLEO-F103RB](https://www.st.com/en/evaluation-tools/nucleo-f103rb.html)
 
 ### STM32F2
+
 * [STM3220G-EVAL](https://www.st.com/en/evaluation-tools/stm3220g-eval.html)
 * [STM3221G-EVAL](https://www.st.com/en/evaluation-tools/stm3221g-eval.html)
 * [NUCLEO-F207ZG](https://www.st.com/en/evaluation-tools/nucleo-f207zg.html)
 
 ### STM32F3
+
 * [STM32303E-EVAL](https://www.st.com/en/product/stm32303e-eval.html)
 * [STM32373C-EVAL](https://www.st.com/en/product/stm32373c-eval.html)
 * [32F3348DISCOVERY](https://www.st.com/en/evaluation-tools/32f3348discovery.html)
