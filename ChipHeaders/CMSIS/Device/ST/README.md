@@ -92,3 +92,10 @@
 * [NUCLEO-L053R8](https://www.st.com/en/evaluation-tools/nucleo-l053r8.html)
 * [NUCLEO-L073RZ](https://www.st.com/en/evaluation-tools/nucleo-l073rz.html)
 * [STM32L073Z_EVAL](https://www.st.com/en/evaluation-tools/stm32l073z-eval.html)
+
+### STM32L1
+
+* [32L100CDISCOVERY](https://www.st.com/en/evaluation-tools/32l100cdiscovery.html)
+* [32L152CDISCOVERY](https://www.st.com/en/evaluation-tools/32l152cdiscovery.html)
+* [NUCLEO-L152RE](https://www.st.com/en/evaluation-tools/nucleo-l152re.html)
+* [STM32L152D-EVAL](https://www.st.com/en/evaluation-tools/stm32l152d-eval.html)
