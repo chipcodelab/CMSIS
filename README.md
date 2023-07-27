@@ -2,6 +2,7 @@
 
 This repository's main branch contains the latest version of ARM CMSIS and STMicroelectronics device header files. Embedded developers can use this repository to include CMSIS header files in your STM32 development projects.
 
+
 ## Core
 
 Standardized API for the Cortex-M processor core and peripherals. Includes intrinsic functions for Cortex-M4/M7/M33/M35P SIMD instructions.
@@ -20,7 +21,7 @@ DSP library collection with over 60 functions for various data types: fixed-poin
 
 ## Include
 
-Standard header include files for ARM Cortex.
+Standard header include files for ARM Cortex Microconrollers.
 
 ## NN
 
