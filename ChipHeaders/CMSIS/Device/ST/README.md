@@ -122,3 +122,9 @@
 * [NUCLEO-L496ZG-P](https://www.st.com/en/evaluation-tools/nucleo-l496zg-p.html)
 * [STM32L4R9I-EVAL](https://www.st.com/en/evaluation-tools/stm32l4r9i-eval.html)
 * [STM32L476G-EVAL](https://www.st.com/en/evaluation-tools/stm32l476g-eval.html)
+
+### STM32L5
+
+* [NUCLEO-L552ZE-Q](https://www.st.com/en/evaluation-tools/nucleo-l552ze-q.html)
+* [STM32L552E-EV](https://www.st.com/en/evaluation-tools/stm32l552e-ev.html)
+* [STM32L562E-DK](https://www.st.com/en/evaluation-tools/stm32l562e-dk.html)
