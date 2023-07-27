@@ -21,7 +21,7 @@ DSP library collection with over 60 functions for various data types: fixed-poin
 
 ## Include
 
-This folder included standard header files for STM32 ARM Cortex Microconrollers. Following STM32 microcontroller series header files included and you can delete unwanted device family after downloaded this repository.
+This folder included standard header files for STM32 ARM Cortex Microconrollers. Following list of STM32 microcontroller series header files included in this repository. You can delete unwanted device family after download this repository.
 
 * STM32F0
 * STM32F1
