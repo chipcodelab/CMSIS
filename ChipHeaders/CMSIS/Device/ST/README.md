@@ -1,5 +1,19 @@
 # Development Boards
 
+# STM32F0
+
+* [32F0308DISCOVERY](https://www.st.com/en/evaluation-tools/32f0308discovery.html)
+* [32F072BDISCOVERY](https://www.st.com/en/evaluation-tools/32f072bdiscovery.html)
+* [NUCLEO-F030R8](https://www.st.com/en/evaluation-tools/nucleo-f030r8.html)
+* [NUCLEO-F031K6](https://www.st.com/en/evaluation-tools/nucleo-f031k6.html)
+* [NUCLEO-F042K6](https://www.st.com/en/evaluation-tools/nucleo-f042k6.html)
+* [NUCLEO-F070RB](https://www.st.com/en/evaluation-tools/nucleo-f070rb.html)
+* [NUCLEO-F072RB](https://www.st.com/en/evaluation-tools/nucleo-f072rb.html)
+* [NUCLEO-F091RC](https://www.st.com/en/evaluation-tools/nucleo-f091rc.html)
+* [STM32072B-EVAL](https://www.st.com/en/evaluation-tools/stm32072b-eval.html)
+* [STM32091C-EVAL](https://www.st.com/en/evaluation-tools/stm32091c-eval.html)
+* [STM32F0DISCOVERY](https://www.st.com/en/evaluation-tools/stm32f0discovery.html)
+
 ## STM32F4
 
 * [STM32F4-Discovery](https://www.st.com/content/st_com/en/products/evaluation-tools/product-evaluation-tools/mcu-eval-tools/stm32-mcu-eval-tools/stm32-mcu-discovery-kits/stm32f4discovery.html)
