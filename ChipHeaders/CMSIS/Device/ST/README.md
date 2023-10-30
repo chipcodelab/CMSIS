@@ -82,6 +82,26 @@
 * [STM32F779I-EVAL](https://www.st.com/en/evaluation-tools/stm32f779i-eval.html)
 * [STM32F7308-DK](https://www.st.com/en/evaluation-tools/stm32f7308-dk.html)
 
+## STM32G Series
+
+### STM32G0
+
+* [STM32G0C1E-EV](https://www.st.com/en/evaluation-tools/stm32g0c1e-ev.html)
+* [NUCLEO-G0B1RE](https://www.st.com/en/evaluation-tools/nucleo-g0b1re.html)
+* [STM32G081B-EVAL](https://www.st.com/en/evaluation-tools/stm32g081b-eval.html)
+* [NUCLEO-G070RB](https://www.st.com/en/evaluation-tools/nucleo-g070rb.html)
+* [NUCLEO-G071RB](https://www.st.com/en/evaluation-tools/nucleo-g071rb.html)
+* [STM32G071B-DISCO](https://www.st.com/en/evaluation-tools/stm32g071b-disco.html)
+* [NUCLEO-G031K8](https://www.st.com/en/evaluation-tools/nucleo-g031k8.html)
+* [STM32G0316-DISCO](https://www.st.com/en/evaluation-tools/stm32g0316-disco.html)
+
+### STM32G4
+
+* [STM32G474E-EVAL](https://www.st.com/en/product/stm32g474e-eval.html)
+* [NUCLEO-G431KB](https://www.st.com/en/product/nucleo-g431kb.html)
+* [NUCLEO-G431RB](https://www.st.com/en/product/nucleo-g431rb.html)
+* [NUCLEO-G474RE](https://www.st.com/en/product/nucleo-g474re.html)
+* [B-G474E-DPOW1](https://www.st.com/en/product/b-g474e-dpow1.html)
 
 ## STM32L Series
 
