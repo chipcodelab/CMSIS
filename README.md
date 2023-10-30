@@ -29,6 +29,8 @@ This folder included standard header files for STM32 ARM Cortex Microconrollers.
 * STM32F3
 * STM32F4
 * STM32F7
+* STM32G0
+* STM32G4
 * STM32L0
 * STM32L1
 * STM32L4
